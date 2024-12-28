@@ -1,3 +1,12 @@
+<canvas id="myCanvas" width="500" height="500" style="border: 1px solid black;"></canvas>
+<script>
+    const canvas = document.getElementById('myCanvas');
+    const ctx = canvas.getContext('2d');
+    ctx.fillStyle = 'blue'; // Set the fill color
+    ctx.fillRect(50, 50, 100, 100); // x, y, width, height
+</script>
+
+
 # 😎 About Me:
 🐤 CEO and founder of QuackStack (quackstack.net). <br>👨‍💻 I, myself, am quite proficient in web development and architecture.
 
