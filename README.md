@@ -1,5 +1,5 @@
 # 😎 About Me:
-🐤 CEO and founder of QuackStack. <br>👨‍💻 I, myself, am quite proficient in web development and software architecture.
+🐤 CEO and founder of QuackStack. <br>👨‍💻 I, myself, am quite proficient in web development and software architecture. <br>📧 martin@quackstack.net <br>📞 +359 89 305 8517
 
 
 # 💻 My Technologies:
