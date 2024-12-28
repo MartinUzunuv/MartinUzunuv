@@ -1,5 +1,5 @@
 # 😎 About Me:
-🐤 CEO and founder of QuackStack (quackstack.net). <br>👨‍💻 I, myself, am quite proficient in web development and architecture.
+🐤 CEO and founder of QuackStack (quackstack.net). <br>👨‍💻 I, myself, am quite proficient in web development and software architecture.
 
 
 # 💻 My Technologies:
